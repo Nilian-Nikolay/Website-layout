@@ -15,9 +15,9 @@
 https://nilian-nikolay.github.io/full_Site_Bootstrap/
 
 
-| Пк                                                                                                                                                       | Мобил                                | Выпадающ меню                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ |
-| ![nilian-nikolay github io_full_Site_Bootstrap_](https://github.com/Nilian-Nikolay/Website-layout/assets/119882554/af08337b-73a3-46ee-807d-8d3ac70c4f81) | ![Снимок экрана 2024-05-16 190402](https://github.com/Nilian-Nikolay/Website-layout/assets/119882554/27b84943-42d6-4e81-a791-8d93eb1c4ee5) | ![Снимок экрана 2024-05-16 190429](https://github.com/Nilian-Nikolay/Website-layout/assets/119882554/42e2400a-3dde-40f3-9c8f-8fe5cbdcc3d6) |
+| Пк                                                                                                                                                       | Мобил                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| ![nilian-nikolay github io_full_Site_Bootstrap_](https://github.com/Nilian-Nikolay/Website-layout/assets/119882554/af08337b-73a3-46ee-807d-8d3ac70c4f81) | ![Снимок экрана 2024-05-16 190402](https://github.com/Nilian-Nikolay/Website-layout/assets/119882554/27b84943-42d6-4e81-a791-8d93eb1c4ee5) |
 
 
 
@@ -36,9 +36,4 @@ https://nilian-nikolay.github.io/Restaurant/
 
 
 
-----------------------------------------------------
-# Restaurant
 
-https://nilian-nikolay.github.io/Restaurant/
-
-![nilian-nikolay github io_Restaurant_](https://github.com/Nilian-Nikolay/Restaurant/assets/119882554/718809c8-4a38-4d91-b96f-e2ca79dd39e7)
